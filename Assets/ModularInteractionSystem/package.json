@@ -1,0 +1,15 @@
+{
+    "name": "com.narexa.modularinteractionsystem",
+    "version": "1.0.0",
+    "displayName": "Narexa's Modular Interaction System",
+    "description": "A flexible and easy-to-use interaction system for Unity games",
+    "unity": "2022.3",
+    "author": {
+        "name": "Narexa",
+        "url": "https://github.com/narexa"
+    },
+    "dependencies": {
+        "com.unity.inputsystem": "1.6.1",
+        "com.unity.textmeshpro": "3.0.6"
+    }
+} 
